@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": [
+      "cypress",
+      "node"
+    ],
+    "target": "ESNext",
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "sourceMap": true,
+    "outDir": "../tests-out"
+  }
+}
