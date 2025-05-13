@@ -8,7 +8,7 @@ export default defineConfig({
   defaultCommandTimeout: 60000,
   video: false,
   videoCompression: 12,
-  numTestsKeptInMemory: 0,
+  numTestsKeptInMemory: 5,
   viewportWidth: 1920,
   viewportHeight: 1080,
   projectId: 'cypress-showcase-tests',
