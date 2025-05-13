@@ -15,5 +15,6 @@ export default defineConfig({
   e2e: {
     baseUrl: process.env.BASE_URL,
     specPattern: 'cypress/tests/**/*.spec.ts',
+    chromeWebSecurity: false,
   },
 });
