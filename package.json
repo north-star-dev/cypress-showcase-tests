@@ -9,7 +9,7 @@
   "devDependencies": {
     "@eslint/js": "^9.19.0",
     "@types/node": "^22.10.10",
-    "cypress": "^14.0.0",
+    "cypress": "^14.3.3",
     "dotenv": "^16.4.7",
     "eslint": "^9.19.0",
     "typescript": "^5.7.3",
